@@ -1,13 +1,13 @@
-# FIFA World Cup Data Extractor
+# NBA Seasons Extractor
 
 ## Configuration
 
 Create and activate a virtual environment:
 
 ```sh
-conda create -n  python=3.8
+conda create -n nbaseasons-env python=3.8
 
-conda activate unemployment-env
+conda activate nbaseasons-env
 ```
 
 Install package dependencies:
